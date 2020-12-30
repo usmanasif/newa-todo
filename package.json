@@ -1,0 +1,16 @@
+{
+  "name": "newa-todo",
+  "version": "0.0.1",
+  "description": "Simple todo application.",
+  "main": "server.js",
+  "author": "Usman",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.10.8",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0"
+  }
+}
