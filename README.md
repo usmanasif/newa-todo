@@ -1,5 +1,5 @@
 # Newa-Todo(Node Express with Angular Todo App)
-Newa-Todo is a web application that is able to retrieve a user's name through inout form and displays it.
+Newa-Todo is a web application that is able to retrieve a user's name through a form and displays it.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
